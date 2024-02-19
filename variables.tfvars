@@ -1,0 +1,8 @@
+cidr_vpc = "10.0.0.0/16"
+ami_id = "ami-0c7217cdde317cfec"
+cidr_sub = "10.0.0.0/24"
+cidr_rt = "0.0.0.0/0"
+az = "us-east-1a"
+instance_type = "t2.micro"
+access_key = "AKIA4ODS5HNTXEYWZV44"
+secret_key = "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"
